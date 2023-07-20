@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootEcommerceApplication {
 
 	public static void main(String[] args) {
+		int a = 5;
+		int b = 9;
 		SpringApplication.run(SpringBootEcommerceApplication.class, args);
 	}
 
